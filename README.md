@@ -14,9 +14,9 @@ A React-based application that converts markdown text into HTML. Users can input
 - **HTML**: HyperText Markup Language, the standard markup language for creating web pages.
 - **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine, used for server-side scripting.
 - **npm**: Node Package Manager, used for managing project dependencies.
-- **Git**: Version control system used for tracking changes in the source code.
-- **GitHub**: Hosting platform for version control and collaboration.
 
+## Check it out here
+https://markdown-previewer-bay-five.vercel.app/
 ## Features
 
 - Converts markdown text into HTML in real-time.
