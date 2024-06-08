@@ -81,7 +81,7 @@ And here. | Okay. | I think we get it.
             value={markdownContent}
             onChange={handleInputChange}
             placeholder="Enter your markdown here..."
-            className="w-full h-full p-4 border rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none"
+            className="w-full h-full p-4 border rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none text-black bg-white"
           />
         </div>
         <div className="w-1/2 h-full">
