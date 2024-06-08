@@ -23,7 +23,7 @@ Or _italic_.
 Or... wait for it... **_both!_**
 And feel free to go crazy ~~crossing stuff out~~.
 
-There's also [links](https://www.freecodecamp.org), and
+There's also [links](www.youtube.com), and
 > Block Quotes!
 
 And if you want to get really crazy, even tables:
@@ -41,7 +41,7 @@ And here. | Okay. | I think we get it.
 1. And there are numbered lists too.
 1. Use just 1s if you want!
 1. And last but not least, let's not forget embedded images:
-![React Logo w/ Text](https://goo.gl/Umyytc)
+![Hampter](https://images.unsplash.com/photo-1584553421349-3557471bed79?fit=fillmax&fm=jpg&ixid=MnwzNTY3MHwwfDF8YWxsfHx8fHx8fHx8MTY1ODk0Mjc1MQ&ixlib=rb-1.2.1&q=75)
 `;
 
   const [markdownContent, setMarkdownContent] = useState(defaultMarkdown);
